@@ -1,2 +1,3 @@
 from randint import *
-def GenRand():
+def GenRand(int a,int b):
+  return randint(a,b)
